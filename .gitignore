@@ -2,3 +2,8 @@
 *.yml
 *.properties
 *.xml
+/target
+**/src/main/**/target
+!.mvn/wrapper/maven-wrapper.jar
+/logs
+.idea
